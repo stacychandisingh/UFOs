@@ -18,9 +18,9 @@ The second image below shows the search results for UFO sightings in New York wh
 
 
 
-# Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+# Summary
 
-One drawback of this new design is that the search fields are case sensitive and character-sensitive. For example: if a user searches for UFO data by state by typing "NY", no results will be returned. However, if the user searches for lowercase "ny", four results will be returned.
+- One drawback of this new design is that the search fields are case sensitive and character-sensitive. For example: if a user searches for UFO data by state by typing "NY", no results will be returned. However, if the user searches for lowercase "ny", four results will be returned.
 
 
 
